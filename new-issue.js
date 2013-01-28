@@ -15,10 +15,12 @@ var fieldValueMap = {
     "\n\n - [ ] MASTER"+
     "\n\n - [ ] INSTANT"+
     "\n\n----"+
+    "\n\n#### Issues"+
     "\n\n - [ ] What is the DIRECT ISSUE?"+
     "\n\n - [ ] Any other issues related?"+
     "\n\n - [ ] Any additional repros to check?"+
     "\n\n----"+
+    "\n\n#### API"+
     "\n\n - [ ] Via https://www.gotesters.com/dev/API-Test-Page/ > Successfully start an API session"+
     "\n\n - [ ] The API session is still logged into gotesters"+
     "\n\n - [ ] Create and join a GUEST to the API session (has guest privileges)"+
@@ -27,7 +29,7 @@ var fieldValueMap = {
     "\n\n - [ ] Create and join a OWNERROLE to the API session (has owner privileges)"+
     "\n\n - [ ] Change the location via GAB to a RESTRICTED DOMAIN in the API session"+
     "\n\n----"+
-    "\n\n * Connection tests via test.[server].goinstant.org"+
+    "\n\n#### Connection via test.[server]"+
     "\n\n - [ ] Safari OSX"+
     "\n\n - [ ] Firefox OSX"+
     "\n\n - [ ] Chrome OSX"+
@@ -40,7 +42,7 @@ var fieldValueMap = {
     "\n\n#### IDE"+
     "\n\n  - [ ]  __LiveTests-Supported-Part-01 - Tests 11 / Expected 11"+
     "\n\n  - [ ]  __LiveTests-Supported-Part-02 - Tests 11 / Expected 11"+
-    "\n\n - [ ]  __GoTesters-Supported - Tests 40 / Expected 40"+
+    "\n\n  - [ ]  __GoTesters-Supported - Tests 40 / Expected 40"+
     "\n\n  - [ ]  __Dashboard - Tests 16 / Expected 16"
 };
 
