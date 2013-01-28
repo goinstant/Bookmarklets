@@ -11,6 +11,7 @@ var fieldValueMap = {
     "\n\n* " +
     "\n\n###### Error Reports"+
     "\n\n* "+
+    "\n\n----"+
     "\n\n#### Jenkins Results"+
     "\n\n - [ ] MASTER"+
     "\n\n - [ ] INSTANT"+
