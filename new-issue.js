@@ -77,16 +77,16 @@ var fieldValueMap = {
     "\n\n[ ] QA"+
     "\n\n----"+
     "\n\n#### IDE"+
-    "\n\n##### __LiveTests-Supported-Part-01 - Tests 11 / Expected 11"+
+    "\n\n##### LiveTests-Supported-Part-01 - Tests 11 / Expected 11"+
     "\n\n[ ] Dev"+
     "\n\n[ ] QA"+
-    "\n\n##### __LiveTests-Supported-Part-02 - Tests 11 / Expected 11"+
+    "\n\n##### LiveTests-Supported-Part-02 - Tests 11 / Expected 11"+
     "\n\n[ ] Dev"+
     "\n\n[ ] QA"+
-    "\n\n##### __GoTesters-Supported - Tests 40 / Expected 40"+
+    "\n\n##### GoTesters-Supported - Tests 40 / Expected 40"+
     "\n\n[ ] Dev"+
     "\n\n[ ] QA"+
-    "\n\n##### __Dashboard - Tests 16 / Expected 16"
+    "\n\n##### Dashboard - Tests 16 / Expected 16"+
     "\n\n[ ] Dev"+
     "\n\n[ ] QA"
 
