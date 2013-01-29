@@ -88,7 +88,7 @@ var fieldValueMap = {
     "\n\n - [ ] QA"+
     "\n\n##### __Dashboard - Tests 16 / Expected 16"
     "\n\n - [ ] Dev"+
-    "\n\n - [ ] QA"+
+    "\n\n - [ ] QA"
 };
 
 
