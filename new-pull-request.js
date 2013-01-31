@@ -9,12 +9,12 @@ var fieldValueMap = {
     "\n\n* "
     "\n\n----"+
     "\n\n#### Jenkins Results"+
-    "\n\n - [ ] MASTER"+
-    "\n\n - [ ] INSTANT"+
+    "\n\n - [ ] MASTER SUITE"+
+    "\n\n - [ ] PUSH SUITE"+
     "\n\n----"+
     "\n\n#### Direct Issue"+
-    "\n\n - [ ] Dev"+
-    "\n\n - [ ] QA"+
+    "\n\n - [ ] Developer checked"+
+    "\n\n - [ ] QA tested"+
     "\n\n----"+
     "\n\n#### API"+
     "\n\n##### Via https://www.gotesters.com/dev/API-Test-Page"+
@@ -37,22 +37,13 @@ var fieldValueMap = {
     "\n\n - [ ] QA"+
     "\n\n----"+
     "\n\n#### Connection tests via test.server"+
-    "\n\n##### Safari OSX"+
-    "\n\n - [ ] QA"+
-    "\n\n##### Firefox OSX"+
-    "\n\n - [ ] QA"+
-    "\n\n##### Chrome OSX"+
-    "\n\n - [ ] QA"+
-    "\n\n##### IE8 XP"+
-    "\n\n - [ ] QA"+
-    "\n\n##### IE8 VISTA"+
-    "\n\n - [ ] QA"+
-    "\n\n##### IE9 W7"+
-    "\n\n - [ ] QA"+
-    "\n\n#####  Firefox W7"+
-    "\n\n - [ ] QA"+
-    "\n\n#####  Chrome W7"+
-    "\n\n - [ ] QA"+
+    "\n\n - [ ] Safari"+
+    "\n\n - [ ] Firefox"+
+    "\n\n - [ ] Chrome"+
+    "\n\n - [ ] IE8"+
+    "\n\n - [ ] IE9"+
+    "\n\n - [ ] Firefox Windows"+
+    "\n\n - [ ] Chrome Windows"+
     "\n\n----"+
     "\n\n#### IDE"+
     "\n\n##### Live Tests"+
