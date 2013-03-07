@@ -1,7 +1,8 @@
-// javascript:(function(a){var b=a.createElement("script");b.src="https://raw.github.com/adamwdennis/Bookmarklets/master/githubNewIssueTemplate.js";a.getElementsByTagName("head")[0].appendChild(b)})(document);)
+// javascript:(function(a){var b=a.createElement("script");b.src="https://raw.github.com/goinstant/Bookmarklets/master/githubNewIssueTemplate.js";a.getElementsByTagName("head")[0].appendChild(b)})(document);)
 var fieldValueMap = {
   '#issue_title' : 'CATEGORY - Brief Description',
-  '.js-comment-field.js-size-to-fit': "###### Description" +
+  '#issue_body': 
+    "###### Description" +
     "\n\n* " +
     "\n\n###### Reproduction Steps" +
     "\n\n* " +
