@@ -2,7 +2,7 @@
 (function($) {
 
 $('#issue_title').attr('value','CATEGORY - Brief Description');
-
+console.log($('#issue_body'));
 $('#issue_body').text(
     "###### Description" +
     "\n\n* " +
