@@ -1,4 +1,4 @@
-// javascript:(function(a,b){b=a.createElement("script");b.src="https://raw.github.com/goinstant/Bookmarklets/master/githubNewIssueTemplate.js";a.getElementsByTagName("head")[0].appendChild(b)})(document);)
+// javascript:(function(a,b){b=a.createElement("script");b.src="https://raw.github.com/goinstant/Bookmarklets/master/new-issue.js";a.getElementsByTagName("head")[0].appendChild(b)})(document);)
 (function($) {
 
 $('#issue_title').attr('value','CATEGORY - Brief Description');
