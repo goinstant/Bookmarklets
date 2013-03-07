@@ -1,8 +1,9 @@
 // javascript:(function(a,b){b=a.createElement("script");b.src="https://raw.github.com/goinstant/Bookmarklets/master/githubNewIssueTemplate.js";a.getElementsByTagName("head")[0].appendChild(b)})(document);)
 (function($) {
-var fieldValueMap = {
-  '#issue_title' : 'CATEGORY - Brief Description',
-  '#issue_body': 
+
+$('#issue_title').attr('value','CATEGORY - Brief Description');
+
+$('#issue_body').text(
     "###### Description" +
     "\n\n* " +
     "\n\n###### Reproduction Steps" +
@@ -28,12 +29,6 @@ var fieldValueMap = {
     "\n\n - [ ] Write unit tests and integration tests, if necessary"+
     "\n\n##### Use Pull Request Bookmarklet to auto populate QA checklist"+
     "\n\n - [ ] Basic preliminary testing"
-
-};
-
-
-Object.keys( fieldValueMap ).forEach(function( name ){
-  $(name).attr('value',fieldValueMap[name]);
-});
+);
 
 }(jQuery||$));
