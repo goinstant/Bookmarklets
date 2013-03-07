@@ -1,4 +1,4 @@
-// javascript:(function(a){var b=a.createElement("script");b.src="https://raw.github.com/goinstant/Bookmarklets/master/githubNewIssueTemplate.js";a.getElementsByTagName("head")[0].appendChild(b)})(document);)
+// javascript:(function(a,b){b=a.createElement("script");b.src="https://raw.github.com/goinstant/Bookmarklets/master/githubNewIssueTemplate.js";a.getElementsByTagName("head")[0].appendChild(b)})(document);)
 var fieldValueMap = {
   '#issue_title' : 'CATEGORY - Brief Description',
   '#issue_body': 
